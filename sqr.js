@@ -1,4 +1,5 @@
+function area(){
 let width = 20
 let height = 10
 let area = width * height
-document.write('Area = ' + area)
+document.write('Area = ' + area)}
